@@ -1,2 +1,2 @@
 # Learning-github
-This is me using a tutorial to learn the "Github Flow"
+I am a developer getting used to actually being recognized and having people see my work
